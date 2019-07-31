@@ -1,0 +1,17 @@
+html,
+body {
+    height: 100%;
+}
+
+header {
+    background-image: url(/imagens/dog-header.jpg);
+    background-size: cover;
+    background-position: top center;
+    height: 100%;
+    position: relative;
+}
+
+#rodape {
+    background-color: black;
+    color: #fff;
+}
